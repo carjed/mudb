@@ -1,0 +1,10 @@
+# Site settings
+title: Mutation Rate Browser
+tag_text: Mutation Rate Browser
+description: Landing page for mutation rate data and other resources
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
